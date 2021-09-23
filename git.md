@@ -1,4 +1,4 @@
-Git Steps
+# Git Steps
 First time git user
 git config --global user.name yourname
 git config --global user.email youremail@gmail.com
