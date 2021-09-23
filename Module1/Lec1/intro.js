@@ -14,7 +14,6 @@
 
  // ES6 => Ecma Script 6
 // Two keyword let and const
-
 // Dynamic casting
 let a = 10;  // you have declared a variable with name and initialized it with value 10;
 // let keyword => block scoped
