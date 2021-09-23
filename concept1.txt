@@ -12,7 +12,6 @@
 // scope => block, Function, global, lexical
 // real and fake function
 // arguments array
-
 // execution context
 // hoisting
 // variables => var, let, const
